@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="nautilus-autorun-software.desktop" open-window-count="0" score="0" last-seen="1579076980"/>
+    <application id="firefox.desktop" open-window-count="0" score="17" last-seen="1579078714"/>
+    <application id="org.gnome.Nautilus.desktop" open-window-count="0" score="94" last-seen="1579169343"/>
+    <application id="update-manager.desktop" open-window-count="0" score="0" last-seen="1579076568"/>
+    <application id="code.desktop" open-window-count="1" score="2798" last-seen="1579169391"/>
+    <application id="google-chrome.desktop" open-window-count="1" score="72" last-seen="1579169155"/>
+    <application id="org.gnome.gedit.desktop" open-window-count="0" score="78" last-seen="1579078363"/>
+    <application id="gnome-terminal.desktop" open-window-count="0" score="0" last-seen="0"/>
+    <application id="libreoffice-draw.desktop" open-window-count="0" score="0" last-seen="1579077627"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="824" last-seen="1579169238"/>
+    <application id="gnome-initial-setup.desktop" open-window-count="0" score="2" last-seen="1579073034"/>
+    <application id="libreoffice-writer.desktop" open-window-count="0" score="5" last-seen="1579077663"/>
+    <application id="org.gnome.Software.desktop" open-window-count="0" score="60" last-seen="1579079367"/>
+  </context>
+</application-state>
