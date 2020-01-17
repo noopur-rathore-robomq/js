@@ -10,3 +10,4 @@ Open repository: /home/noopur
 > git check-ignore -v -z --stdin
 > git show :Documents/js/trial.html
 > git check-ignore -v -z --stdin
+> git show :Documents/js/trial.html

@@ -76,12 +76,22 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/noopur/Documents/js/trial.html" added="2020-01-16T10:09:44Z" modified="2020-01-16T10:09:44Z" visited="2020-01-16T10:09:44.383213Z">
+  <bookmark href="file:///home/noopur/Documents/js/trial.html" added="2020-01-16T10:09:44Z" modified="2020-01-16T10:09:44Z" visited="2020-01-16T10:09:44Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/html"/>
         <bookmark:applications>
           <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-01-16T10:09:44Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/noopur/Documents/js/hello.html" added="2020-01-17T06:19:33Z" modified="2020-01-17T06:19:33Z" visited="2020-01-17T06:19:33.577439Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-01-17T06:19:33Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>

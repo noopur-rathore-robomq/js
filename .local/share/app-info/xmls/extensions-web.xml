@@ -1355,7 +1355,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="3"/>
+      <release version="4"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -14938,7 +14938,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="97"/>
+      <release version="98"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>

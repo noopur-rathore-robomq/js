@@ -1,3 +1,6 @@
-2020/01/15-16:24:10.947 cb7 Reusing MANIFEST /home/noopur/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
-2020/01/15-16:24:11.101 cb7 Recovering log #4
-2020/01/15-16:24:11.103 cb7 Reusing old log /home/noopur/.config/google-chrome/Default/Sync Data/LevelDB/000004.log 
+2020/01/16-15:30:54.311 cec Reusing MANIFEST /home/noopur/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2020/01/16-15:30:54.311 cec Recovering log #4
+2020/01/16-15:30:54.350 cec Reusing old log /home/noopur/.config/google-chrome/Default/Sync Data/LevelDB/000004.log 
+2020/01/16-15:45:47.633 f0f Level-0 table #8: started
+2020/01/16-15:45:47.642 f0f Level-0 table #8: 162334 bytes OK
+2020/01/16-15:45:47.648 f0f Delete type=0 #4
