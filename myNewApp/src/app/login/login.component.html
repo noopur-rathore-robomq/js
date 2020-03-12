@@ -1,0 +1,86 @@
+
+<html>
+<head>
+<style>
+body, html {
+  height: 100%;
+  font-family:Impact;
+  font-style: italic;
+}
+
+* {
+  box-sizing: border-box;
+}
+/* form {
+  border: 3px solid #f1f1f1;
+} */
+
+.bg-img {
+  background-image: url("https://images.unsplash.com/photo-1506784983877-45594efa4cbe?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1496&q=80");
+   height: 100vh;
+
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+position: relative;
+}
+
+.container {
+  position: absolute;
+  right: 0;
+  margin: 20px;
+  max-width: 400px;
+  padding: 20px;
+  background-color: rgba(233, 217, 217, 0.616);
+}
+
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  border: none;
+  background: #f1f1f1;
+}
+
+input[type=text]:focus, input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+.btn {
+  background-color: rgb(21, 35, 230);
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+  border-radius: 12px;
+}
+
+.btn:hover {
+  opacity: 1;
+}
+</style>
+</head>
+<body>
+
+<div class="bg-img">
+  <form action="/action_page.php" class="container">
+    <h1>Task Scheduler</h1>
+
+    <label for="email"><strong>Email</strong></label>
+    <input type="text" placeholder="Enter Email" name="email" required>
+
+    <label for="psw"><strong>Password</strong></label>
+    <input type="password" placeholder="Enter Password" name="psw" required>
+
+    <button type="submit" class="btn">Login</button>
+    <p class="psw">Forgot <a href="#">password?</a></p>
+
+  <p><a href="#" [routerLink]="['/register']" >Signup</a>..New User</p>
+  </form>
+</div>
+
+</body>
+</html>
